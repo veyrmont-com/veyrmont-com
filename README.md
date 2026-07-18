@@ -9,6 +9,24 @@
 
 ------------------------------------------------------------------------
 
+
+# 🌐 Connect With VEYRMONT
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-Visit_Green-0A7C59?style=for-the-badge)](https://veyrmont.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github)](https://github.com/veyrmont-com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/veyrmont)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/veyrmont/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/veyrmont)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/veyrmont/)
+
+</div>
+
+---
+
+
+
 **Secure • Intelligent • Transparent • Professional Financial Solutions**
 
 VEYRMONT delivers secure multi-asset investing through advanced financial technology, intelligent data analytics, and modern digital infrastructure. Our platform is designed for individuals, businesses, and institutional clients seeking reliable access to today's global financial markets.
