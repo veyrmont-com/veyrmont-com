@@ -2,7 +2,6 @@
 
 > Secure Multi-Asset Investing & Advanced Financial Technology
 
-![Visitors](https://komarev.com/ghpvc/?username=veyrmont-com&label=Profile%20Views&color=gold&style=for-the-badge)
 ![Website](https://img.shields.io/badge/Website-veyrmont.com-B8860B?style=for-the-badge)
 ![Investing](https://img.shields.io/badge/Multi--Asset-Investing-success?style=for-the-badge)
 ![Technology](https://img.shields.io/badge/Financial-Technology-orange?style=for-the-badge)
