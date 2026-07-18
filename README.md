@@ -304,13 +304,17 @@ To comply with international regulatory standards, all customers must complete t
 
 ---
 
-# 🌐 Official Links
+# 🌐 Official Links & Social Media
 
 | Platform | Link |
 |----------|------|
 | 🌍 Website | https://veyrmont.com |
 | 💻 GitHub | https://github.com/veyrmont-com |
-| 📧 Support | Support@veyrmont.com |
+| 📘 Facebook | https://www.facebook.com/veyrmont |
+| 💼 LinkedIn | https://www.linkedin.com/company/veyrmont/ |
+| 🐦 X (Twitter) | https://x.com/veyrmont |
+| 📌 Pinterest | https://www.pinterest.com/veyrmont/ |
+| 📧 Email | Support@veyrmont.com |
 
 ---
 
